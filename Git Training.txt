@@ -7,3 +7,11 @@ git remote add origin https://github.com/giri010/GITTraining.git
 git pull origin master
 touch test.txt
 type some text in the file then save escape :wq
+git status
+git add -A test.txt
+
+git commit -a -m "adding GIT commands file"
+git log
+
+git push origin master
+
